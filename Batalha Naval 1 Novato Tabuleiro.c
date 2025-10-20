@@ -41,9 +41,9 @@ int main(){
     mapa [10][1]= 48;
 
     mapa [1][2]= 48;
-    mapa [2][2]= 128;// Navio (losango), Vertical
-    mapa [3][2]= 128;// Navio (losango), Vertical
-    mapa [4][2]= 128;// Navio (losango), Vertical
+    mapa [2][2]= 51;// Navio (número 3), Vertical
+    mapa [3][2]= 51;// Navio (número 3), Vertical
+    mapa [4][2]= 51;// Navio (número 3), Vertical
     mapa [5][2]= 48;
     mapa [6][2]= 48;
     mapa [7][2]= 48;
@@ -68,7 +68,7 @@ int main(){
     mapa [4][4]= 48;
     mapa [5][4]= 48;
     mapa [6][4]= 48;
-    mapa [7][4]= 128;// Navio (losango), HORINZONTAL
+    mapa [7][4]= 51;// Navio (número 3), HORINZONTAL
     mapa [8][4]= 48;
     mapa [9][4]= 48;
     mapa [10][4]= 48;
@@ -79,7 +79,7 @@ int main(){
     mapa [4][5]= 48;
     mapa [5][5]= 48;
     mapa [6][5]= 48;
-    mapa [7][5]= 128;// Navio (losango), HORINZONTAL
+    mapa [7][5]= 51;// Navio (número 3), HORINZONTAL
     mapa [8][5]= 48;
     mapa [9][5]= 48;
     mapa [10][5]= 48;
@@ -90,7 +90,7 @@ int main(){
     mapa [4][6]= 48;
     mapa [5][6]= 48;
     mapa [6][6]= 48;
-    mapa [7][6]= 128;// Navio (losango), HORINZONTAL
+    mapa [7][6]= 51;// Navio (número 3), HORINZONTAL
     mapa [8][6]= 48;
     mapa [9][6]= 48;
     mapa [10][6]= 48;
